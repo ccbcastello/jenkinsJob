@@ -3,7 +3,7 @@ class sample {
   public static void main(String[] args) {
     
     System.out.println("Enter two numbers");
-    int first = 30;
+    int first = 70;
     int second = 30;
     
     System.out.println(first + " " + second);
